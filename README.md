@@ -12,14 +12,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Erik-42/openclassrooms_projet_7.git">
-    <img src="./frontend/src/images/Logo.webp" alt="Logo Mon Vieux Grimoire" width="300"s height="80">
+    <img src="./frontend/src/images/Logo.webp" alt="Logo Mon Vieux Grimoire" width="400" height="80">
   </a>
 
 <h3 align="center">Mon Vieux Grimoire</h3>
 
   <p align="center">
     Développez le back-end d'un site de notation de livres
-    
     <br />
     <a href="https://github.com/Erik-42/openclassrooms_projet_7.git"><strong>Explore the docs »</strong></a>
     <br />
@@ -141,10 +140,7 @@ ou
 
 ## Testez le projet:
 
-https://erik-42.github.io/openclassrooms_projet_7/
-
-Formation OpenClassRoom developpeur web
-
+https://erik-42.github.io/openclassrooms_projet_7/frontend/public/
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -167,6 +163,8 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+Formation OpenClassRoom developpeur intégrateur web
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
