@@ -1,12 +1,12 @@
 <a name="readme-top"></a>
 
-<div align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-</div>
+
+## OpenClassRooms_Projet_7
 
 <!-- PROJECT LOGO -->
 <br />
@@ -19,6 +19,7 @@
 
   <p align="center">
     Développez le back-end d'un site de notation de livres
+    
     <br />
     <a href="https://github.com/Erik-42/openclassrooms_projet_7.git"><strong>Explore the docs »</strong></a>
     <br />
@@ -47,40 +48,58 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    </li>  
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
-# OpenClassRooms_Projet_7
+## About The Project 
 
 Développez le back-end d'un site de notation de livres au nom d'une chaîne de librairies “Le Vieux Grimoire” 
 
-# 
+## Built With
 
-### Built With
-
-* [![Node][Nodejs.org]][Node-url]
+<!-- * [![Node][Nodejs.org]][Node-url]
 * [![Express][Expressjs.com]][Express-url]
 * [![JavaScript][Ecma-international.org]][JavaScript-url]
-* [![MongoDB][Mongodb.com]][MongoDB-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Technologies:
-
+* [![MongoDB][Mongodb.com]][MongoDB-url] -->
 - Node.js
 - Express
 - JavaScript
 - MongoDB
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+
+* node.js [Node-url]
+* express.js [Express-url]
+* mongodb [MongoDB-url]
+ 
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+  ou
+
+* yarn
+  ```sh
+  yarn global add yarn@latest
+  ```
+
 ## Installation:
+
 1. Clone the repo
    ```sh
    git clone https://github.com/Erik-42/openclassrooms_projet_7.git
