@@ -1,17 +1,18 @@
 <a name="readme-top"></a>
 
+<div align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Erik-42/openclassrooms_projet_7.git">
-    <img src="./frontend/src/images/Logo.webp" alt="Logo Mon Vieux Grimoire" width="200" height="80">
+    <img src="./frontend/src/images/Logo.webp" alt="Logo Mon Vieux Grimoire" width="300"s height="80">
   </a>
 
 <h3 align="center">Mon Vieux Grimoire</h3>
@@ -153,9 +154,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Erik-42 - [Erik_42](https://discord.com/)
 
 Project Link: [https://erik-42.github.io/openclassrooms_projet_7/](https://erik-42.github.io/openclassrooms_projet_7/)
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
