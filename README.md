@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Erik-42/openclassrooms_projet_7.git">
-    <img src="./frontend/src/images/Logo.png" alt="Logo" width="80" height="80">
+    <img src="./frontend/src/images/Logo.webp" alt="Logo Mon Vieux Grimoire" width="200" height="80">
   </a>
 
 <h3 align="center">Mon Vieux Grimoire</h3>
@@ -65,10 +65,10 @@ Développez le back-end d'un site de notation de livres au nom d'une chaîne de 
 
 ### Built With
 
-* [![Node][Node.js]][Node-url]
-* [![Express][Express.js]][Express-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
-* [![JavaScript][JavaScript]][JavaScript-url]
+* [![Node][Nodejs.org]][Node-url]
+* [![Express][Expressjs.com]][Express-url]
+* [![JavaScript][Ecma-international.org]][JavaScript-url]
+* [![MongoDB][Mongodb.com]][MongoDB-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +76,7 @@ Développez le back-end d'un site de notation de livres au nom d'une chaîne de 
 
 - Node.js
 - Express
-- JS
+- JavaScript
 - MongoDB
 
 ## Installation:
@@ -95,12 +95,12 @@ ou
    yarn add
    ```
 
-3. Install Nodemon 
+3. Install `Nodemon`
    ```sh
    yarn add nodemon --save
    ```
 
-4. Lancement backend nodemon
+4. Lancement backend Node
    ```sh
    nodemon server
    ```
@@ -118,19 +118,6 @@ ou
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- `Yarn`
-Installer les dépendances avec la commande `yarn add`
-
-Démarrer le serveur frontend avec la commande `yarn start`
-
-Ou
-
-`Npm`
-Installer les dépendances avec la commande `npm install`
-
-Démarrer le serveur frontend avec la commande `npm start`
-
-https://github.com/Erik-42/OpenClassRooms_Projet_7.git -->
 
 ## Testez le projet:
 
@@ -163,23 +150,31 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://erik-42.github.io/openclassrooms_projet_7/](https://erik-42.github.io/openclassrooms_projet_7/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Erik-42/https%3A%2F%2Ferik-42.github.io%2Fopenclassrooms_projet_7%2F
-
+[contributors-shield]: https://img.shields.io/github/contributors/Erik-42/openclassrooms_projet_7
 [contributors-url]: https://github.com/Erik-42/openclassrooms_projet_7/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Erik-42/openclassrooms_projet_7
 [forks-url]: https://github.com/Erik-42/openclassrooms_projet_7/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Erik-42/openclassrooms_projet_7
 [stars-url]: https://github.com/Erik-42/openclassrooms_projet_7/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues-raw/Erik-42/openclassrooms_projet_7
 [issues-url]: https://github.com/Erik-42/openclassrooms_projet_7/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Erik-42/openclassrooms_projet_7
 [license-url]: https://github.com/Erik-42/openclassrooms_projet_7/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/erik-mesen-3469b71a1/
 [product-screenshot]: ./frontend/src/images/screenshot.png
 [Node-url]: https://nodejs.org/
-[React-url]: http://expressjs.com/
+[Express-url]: http://expressjs.com/
 [MongoDB-url]: https://www.mongodb.com/
-[JS-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+[JavaScript-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
