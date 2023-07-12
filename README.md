@@ -137,11 +137,6 @@ ou
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## Testez le projet:
-
-https://erik-42.github.io/openclassrooms_projet_7/frontend/public/
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
